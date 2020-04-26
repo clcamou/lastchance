@@ -1,0 +1,17 @@
+.profile {
+  padding-right: 25px;
+  border-radius: 50%;
+  width: 20%;
+}
+
+h1 {
+  text-align: center;
+  color: rosybrown;
+  font-family: 'Pacifico', cursive;;
+}
+
+.contentWrapper {
+  padding: 5% 2%;
+  box-sizing: border-box;
+  margin: 0 auto;
+}

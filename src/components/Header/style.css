@@ -1,0 +1,16 @@
+.logo {
+   width: 20%; 
+}
+
+Nav {
+    background-color: rosybrown;
+}
+
+.navItem {
+    color: seashell;
+    padding: 5px;
+}
+
+nav ul a.navItem:hover, nav ul a.navItem:visited, nav ul a.navItem:active {
+    color: oldlace
+  }
